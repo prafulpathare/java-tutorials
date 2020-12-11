@@ -1,0 +1,4 @@
+To complie and generate class files in different directory
+```sh
+    javac -d <dir> <javafile>.java
+```
